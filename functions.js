@@ -28,7 +28,6 @@ const ans = square(Number(prompt("Enter the number:")));
 console.log({ ans });
 
 //ES6 [ () => {} ]
-
 const sq = (num) => {
   return num * num;
 };
